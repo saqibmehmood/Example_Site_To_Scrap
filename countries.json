@@ -1,12 +1,12 @@
 [
 {"name": " Afghanistan", "flag": "http://example.webscraping.com/places/static/images/flags/af.png", "area": "647,500 square kilometres"},
-{"name": " Antarctica", "flag": "http://example.webscraping.com/places/static/images/flags/aq.png", "area": "14,000,000 square kilometres"},
-{"name": " Anguilla", "flag": "http://example.webscraping.com/places/static/images/flags/ai.png", "area": "102 square kilometres"},
-{"name": " Aland Islands", "flag": "http://example.webscraping.com/places/static/images/flags/ax.png", "area": "1,580 square kilometres"},
-{"name": " Antigua and Barbuda", "flag": "http://example.webscraping.com/places/static/images/flags/ag.png", "area": "443 square kilometres"},
-{"name": " Albania", "flag": "http://example.webscraping.com/places/static/images/flags/al.png", "area": "28,748 square kilometres"},
-{"name": " Algeria", "flag": "http://example.webscraping.com/places/static/images/flags/dz.png", "area": "2,381,740 square kilometres"},
-{"name": " American Samoa", "flag": "http://example.webscraping.com/places/static/images/flags/as.png", "area": "199 square kilometres"},
 {"name": " Angola", "flag": "http://example.webscraping.com/places/static/images/flags/ao.png", "area": "1,246,700 square kilometres"},
-{"name": " Andorra", "flag": "http://example.webscraping.com/places/static/images/flags/ad.png", "area": "468 square kilometres"}
+{"name": " American Samoa", "flag": "http://example.webscraping.com/places/static/images/flags/as.png", "area": "199 square kilometres"},
+{"name": " Antigua and Barbuda", "flag": "http://example.webscraping.com/places/static/images/flags/ag.png", "area": "443 square kilometres"},
+{"name": " Anguilla", "flag": "http://example.webscraping.com/places/static/images/flags/ai.png", "area": "102 square kilometres"},
+{"name": " Antarctica", "flag": "http://example.webscraping.com/places/static/images/flags/aq.png", "area": "14,000,000 square kilometres"},
+{"name": " Andorra", "flag": "http://example.webscraping.com/places/static/images/flags/ad.png", "area": "468 square kilometres"},
+{"name": " Aland Islands", "flag": "http://example.webscraping.com/places/static/images/flags/ax.png", "area": "1,580 square kilometres"},
+{"name": " Algeria", "flag": "http://example.webscraping.com/places/static/images/flags/dz.png", "area": "2,381,740 square kilometres"},
+{"name": " Albania", "flag": "http://example.webscraping.com/places/static/images/flags/al.png", "area": "28,748 square kilometres"}
 ]
